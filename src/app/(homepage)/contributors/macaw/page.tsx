@@ -679,8 +679,8 @@ const contributors: Contributor[] = [
     role: "member",
   },
   {
-    name: "emmanuelawoke665@gmail.com",
-    username: "awoke Emmanuel",
+    name: "Awoke Emmanuel",
+    username: "awokeEmmanuel",
     workspaceEmail: "emmanuelawoke665@gmail.com",
     gitHubEmail: "emmanuelawoke665@gmail.com",
     role: "member",
