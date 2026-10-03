@@ -220,7 +220,7 @@ const contributors: Contributor[] = [
     name: "Priscilla Bertley",
     username: "bertley priscy",
     workspaceEmail: "bertleypriscy@gmail.com",
-    gitHubEmail: "https://github.com/Ceeylla-Favv",
+    gitHubEmail: "bertleypriscy@gmail.com",
     role: "member",
   },
   {
@@ -472,7 +472,7 @@ const contributors: Contributor[] = [
     name: "maram",
     username: "maram",
     workspaceEmail: "maramemad674@gmail.com",
-    gitHubEmail: "https://github.com/mar-am98",
+    gitHubEmail: "maramemad674@gmail.com",
     role: "member",
   },
   {
@@ -528,7 +528,7 @@ const contributors: Contributor[] = [
     name: "Ifeoluwa Adeniran",
     username: "Debo",
     workspaceEmail: "deniranifeoluwa@gmail.com",
-    gitHubEmail: "https://github.com/Hepheoluwah",
+    gitHubEmail: "deniranifeoluwa@gmail.com",
     role: "member",
   },
   {
@@ -542,7 +542,7 @@ const contributors: Contributor[] = [
     name: "Beatrice Pepple",
     username: "beatricepepple",
     workspaceEmail: "beatrice.pepple@gmail.com",
-    gitHubEmail: "https://github.com/Bea-3",
+    gitHubEmail: "beatrice.pepple@gmail.com",
     role: "member",
   },
   {
