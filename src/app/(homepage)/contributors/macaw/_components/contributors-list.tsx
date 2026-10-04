@@ -43,6 +43,7 @@ export const ContributorsList = ({
           />
           <Input
             type="text"
+            aria-label="Search contributors"
             placeholder="Search contributors..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
