@@ -10,6 +10,8 @@ export type Contributor = {
   workspaceEmail: string;
   gitHubEmail: string;
   role: string;
+  id?: string;
+  hobbies?: string[];
 };
 
 const getInitials = (name: string) =>

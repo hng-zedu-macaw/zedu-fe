@@ -720,6 +720,15 @@ const contributors: Contributor[] = [
     gitHubEmail: "joshuandu3@gmail.com",
     role: "member",
   },
+  {
+    id: "98",
+    name: "Chinenye Onwuzulike",
+    username: "ChinenyeOnwuzulike",
+    workspaceEmail: "chinenyeonwuzulike99@gmail.com",
+    gitHubEmail: "chinenyeonwuzulike99@gmail.com",
+    role: "member",
+    hobbies: ["Travelling", "Reading", "Hiking"],
+  },
 ];
 
 export default function MacawPage() {
