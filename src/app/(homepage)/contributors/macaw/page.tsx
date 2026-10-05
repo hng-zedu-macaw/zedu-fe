@@ -103,6 +103,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "lasisitimilehin9@gmail.com",
     gitHubEmail: "lasisitimilehin9@gmail.com",
     role: "member",
+    hobbies: ["Coding", "Reading", "Travelling"],
   },
   {
     name: "Akinwande Joseph Obiti",
