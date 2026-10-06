@@ -279,7 +279,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "samson.ocran@gmail.com",
     gitHubEmail: "samson.ocran@gmail.com",
     role: "member",
-    hobbies: [],
+    hobbies: ["Music", "Movies", "Travelling"],
   },
   {
     id: "28",
