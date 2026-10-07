@@ -54,7 +54,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "olaleyeobidiya@gmail.com",
     gitHubEmail: "olaleyeobidiya@gmail.com",
     role: "technical lead",
-    hobbies: [],
+    hobbies: ["swimming", "football", "chess", "traveling"],
   },
   {
     id: "3",
@@ -234,7 +234,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "yusuf2000mm@gmail.com",
     gitHubEmail: "yusuf2000mm@gmail.com",
     role: "member",
-    hobbies: [],
+    hobbies: ["Coding", "Gaming"],
   },
   {
     id: "23",
@@ -369,7 +369,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "chidozie4god@gmail.com",
     gitHubEmail: "chidozie4god@gmail.com",
     role: "member",
-    hobbies: [],
+    hobbies: ["gaming", "football", "volleyball"],
   },
   {
     id: "38",
@@ -414,7 +414,7 @@ const contributors: Contributor[] = [
     workspaceEmail: "kennethokonkwo73@gmail.com",
     gitHubEmail: "kennethokonkwo73@gmail.com",
     role: "member",
-    hobbies: [],
+    hobbies: ["Football", "Music", "Travelling"],
   },
   {
     id: "43",
@@ -908,6 +908,15 @@ const contributors: Contributor[] = [
     username: "Joshua ndu",
     workspaceEmail: "Joshuandu3@gmail.com",
     gitHubEmail: "joshuandu3@gmail.com",
+    role: "member",
+    hobbies: [],
+  },
+  {
+    id: "98",
+    name: "Chinenye Onwuzulike",
+    username: "ChinenyeOnwuzulike",
+    workspaceEmail: "chinenyeonwuzulike99@gmail.com",
+    gitHubEmail: "chinenyeonwuzulike99@gmail.com",
     role: "member",
     hobbies: [],
   },
